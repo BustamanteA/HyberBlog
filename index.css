@@ -25,3 +25,11 @@ body
 .conteiner h1 {
 font-size: 20px;
 }
+
+footer {
+    background-color: dimgray;
+    color: #ddd;
+    text-align: center;
+    font-weight: bold;
+    padding: 1px;
+}
