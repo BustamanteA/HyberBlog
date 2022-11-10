@@ -32,3 +32,11 @@ body
 .conteiner {
 background-color: #ddd;
 }
+
+footer {
+    background-color: dimgray;
+    color: #ddd;
+    text-align: center;
+    font-weight: bold;
+    padding: 1px;
+}
