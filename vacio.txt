@@ -3,5 +3,9 @@ Historia de Alfredo Bustamante
 29 anios.
 
 master 1
+<<<<<<< HEAD
 master 2
+=======
+Experimento 1
+>>>>>>> f5b8288 (agregamos experimento 1)
 maniana hablaremos de su historia laboral
